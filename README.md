@@ -1,10 +1,6 @@
 # example
 
-This is an example
-
-Now I'm going to squash this
-
-This is another super cool brancho
+Example repo
 
 This is the END
 
