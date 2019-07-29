@@ -1,4 +1,4 @@
-# example
+# Example
 
 This is an example
 
