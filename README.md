@@ -1,4 +1,4 @@
-# example
+# GIT example
 
 Example repo
 
