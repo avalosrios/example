@@ -7,8 +7,8 @@ This is a github merge
 This is a direct master commit
 maybe I'll find some conflicts here
 
+Super coool branch changes!
 
-because yes
 
 Now I'm going to squash this
 
