@@ -1,3 +1,7 @@
 # Example
 
-This is an example
+This is *NOT* longer an example
+
+----
+// This is an example
+----
