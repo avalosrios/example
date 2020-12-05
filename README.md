@@ -1,5 +1,9 @@
 # Example
 
-This is an example on my branch yes!
+This is *NOT* longer an example
+
+----
+// This is an example
+----
 
 More changes
